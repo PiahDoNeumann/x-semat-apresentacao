@@ -23,6 +23,8 @@ Em 3D
  - Cubo
  - Cone
 
+ * Ver para falar sobre ângulo
+
 # quarto slide
 Triângulo e Cone
 /* desenho de triangulo e cone */
@@ -54,7 +56,8 @@ Principais Comandos - Adicionais
     - Alt + D : Duplicar;
 
 Extra
-    - Low Poly X Full HD (Ver se precisa explicar assim)
+    - Low Poly X Full HD (Ver se precisa explicar assim);
+    - Se duplicar dois objetos, tem algum estudo matemático a ser feito? 
 
 # sétimo slide
 
