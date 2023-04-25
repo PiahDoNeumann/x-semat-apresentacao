@@ -29,6 +29,12 @@ https://github.com/agmmnn/awesome-blender
 
 # Artigos Cientificos
 
+- Artigo Motivador:
+COMPUTAÇÃO GRÁFICA NA EDUCAÇÃO: Blender 3D e o ensino de geometria espacial - 2015
+http://www2.uesb.br/ppg/profmat/wp-content/uploads/2018/11/Dissertacao_ANDERSON_VANTUIR_NOBRE_VIEIRA.pdf
+
+
+
 - CONSTRUINDO SÓLIDOS GEOMÉTRICOS
 http://anaisjem.upf.br/download/de-221-antiqueira.pdf 
 
@@ -76,7 +82,8 @@ https://www.institutoclaro.org.br/educacao/para-ensinar/planos-de-aula/explorand
 - PLANIFICAÇÃO DE SÓLIDOS GEOMÉTRICOS (Tem vários desenhos)
 https://escolakids.uol.com.br/matematica/planificacao-de-solidos-geometricos.htm
 
-
+- ATIVIDADES COM SÓLIDOS GEOMÉTRICOS (Vários desenhos)
+https://bau-de-atividades.com/atividades-com-solidos-geometricos-em-sala-de-aula/
 
 # Aplicativos
 
@@ -93,3 +100,27 @@ http://www.peda.com/poly/
   Johnson Solids
   Etc...
 
+# Notas para a oficina
+O que é um prisma?
+ paralelismo das bases e também que elas são idênticas.
+Tem outros prismas?
+o quadrangular, o pentagonal e o hexagonal.
+- É importante que o aluno reconheça os elementos de um prisma, pois eles são fundamentais no momento de calcular áreas e volume. O CBC (MINAS, 2015) recomenda
+que os alunos saibam identificar esses elementos.
+- A próxima ação será fundir a base que está selecionada pressionando simultaneamente as teclas Alt e M. Aparecerá três opções e a escolhida deverá ser “at center”. Surgirá aí a pirâmide hexagonal representada na Figura 14. Todas as outras pirâmides deverão ser feitas da mesma maneira.
+
+
+# Exemplo de atividade
+Especificação dos sólidos para a 1ª etapa do projeto.
+1- Construir um prisma hexagonal regular, cujas arestas da base medem 20 cm e a altura 50 cm.
+
+2- construir uma pirâmide de base quadrada com apótema da base igual a 50 cm e a sua apótema da face (g) medindo √10/2 m
+
+3-Construir um dado com 4 faces em forma de tetraedro regular e cujo volume seja igual a V=5√15 〖cm〗^3
+
+4- Construa um cilindro circunscrito a um prisma de base retangular cujas medidas da base são 20 cm, 10 cm e, cuja altura do mesmo é 40 cm. O cilindro deverá ter a mesma altura do prisma.
+
+5- Construir um cone que tenha a área da base e a altura igual à área da base e a altura de um cilindro que mede respectivamente, Ab= 400π 〖cm〗^2 V=24000cm3.
+
+6- Construir um paralelepípedo cujas diagonais medem, D= 50 cm e d= 40 cm e a aresta a = 20cm
+O projeto deverá ser apresentado na área comum do colégio em frente à cantina no dia 30 de outubro de 2014.
