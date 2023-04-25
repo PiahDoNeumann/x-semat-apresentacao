@@ -29,6 +29,12 @@ https://github.com/agmmnn/awesome-blender
 
 # Artigos Cientificos
 
+- CONSTRUINDO SÓLIDOS GEOMÉTRICOS
+http://anaisjem.upf.br/download/de-221-antiqueira.pdf 
+
+- ESTUDO DE SÓLIDOS GEOMÉTRICOS COM USO DE RECURSOS DIGITAIS E CONCRETOS
+https://www.lume.ufrgs.br/bitstream/handle/10183/134158/000984802.pdf
+
 - LABORATÓRIO VIRTUAL DE QUÍMICA: BLENDER 3D AUXILIANDO NO ENSINO DA QUÍMICA
 http://www.abenge.org.br/cobenge/legado/arquivos/7/artigos/104413.pdf
 
@@ -74,5 +80,16 @@ https://escolakids.uol.com.br/matematica/planificacao-de-solidos-geometricos.htm
 
 # Aplicativos
 
-- Poly Lens
+- Poly Lens (Poly, formerly Plantronics & Polycom) - Não é este
 https://www.poly.com/br/pt/products/services/cloud/poly-lens/app
+
+- Poly
+http://www.peda.com/poly/
+* Poly includes all of the following polyhedra: 
+  Platonic Solids
+  - Tetrahedron; Cube; Octahedron; Dodecahedron; Icosahedron
+  Archimedean Solids
+  Prisms and Anti-Prisms
+  Johnson Solids
+  Etc...
+
