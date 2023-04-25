@@ -8,7 +8,7 @@ História do Blender
  - 2005, Compra o direito dos sócios e abre o fonte (Open Source).
  - Grandes empresas usam.
  - Fácil utilização para iniciar.
- - Desenho Técnico (AutoCad), Desenho Livre(ver isso), Desenho Artistico.
+ - Desenho Técnico (AutoCad), Desenho Livre(ver isso, Ferramentas da Adobe), Desenho Artistico.
 
 
 # terceiro slide
@@ -100,5 +100,5 @@ Adicional com Imagem
 - Como carregar imagem e fazer um objeto 3D
 - "Model Sheet" - para encontrar pessoa/personagem;
 - "Blueprint" - para encontrar modelos de carro/avião, etc;
-
+- Addons de Arvore, Caternária, 
 
