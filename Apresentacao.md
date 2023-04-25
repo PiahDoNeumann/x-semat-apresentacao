@@ -2,10 +2,20 @@
 
 Titulo
 
+# Slide Motivador
+COMPUTAÇÃO GRÁFICA NA EDUCAÇÃO: Blender 3D e o ensino de geometria espacial
+
+ANDERSON VANTUIR NOBRE VIEIRA
+
+2015
+
+Foi quem motivou a desenvolver esta oficina
+
 # segundo slide
 História do Blender
- - Nasceu em 2002.
- - 2005, Compra o direito dos sócios e abre o fonte (Open Source).
+ - Nasceu em 1998 desenvolvido por Ton Roosendaal.
+ - 2000, financiamento para expandir o projeto, fracassou
+ - 2002, compra o direito dos sócios atráves de uma vaquinha e abre o fonte (Open Source).
  - Grandes empresas usam.
  - Fácil utilização para iniciar.
  - Desenho Técnico (AutoCad), Desenho Livre(ver isso, Ferramentas da Adobe), Desenho Artistico.
@@ -44,7 +54,7 @@ Principais Comandos do Blender
 
 No modo de Edição:
     * Vertice/Ponto (Vertex);
-    * Borda/Linha (Edge);
+    * Aresta/Borda/Linha (Edge);
     * Face (Face);
     - A : Selecionar todos os vertices do objeto (Modo Edição);
 
