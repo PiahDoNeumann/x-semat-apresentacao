@@ -1,6 +1,7 @@
 # primeiro slide
 
-Titulo
+Matemática em 3D com o Blender
+
 
 # Slide Motivador
 COMPUTAÇÃO GRÁFICA NA EDUCAÇÃO: Blender 3D e o ensino de geometria espacial
